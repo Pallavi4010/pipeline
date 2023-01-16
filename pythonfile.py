@@ -1,5 +1,7 @@
 print("from git bash")
 a=100
 b=1000
-c=a+b
-print("the value of c is:c")
+c=a*b
+print("the value of c is",c)
+d=a+b
+print("value of d",d)
